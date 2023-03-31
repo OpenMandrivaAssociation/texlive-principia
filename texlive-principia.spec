@@ -1,6 +1,6 @@
 Name:		texlive-principia
 Version:	58927
-Release:	1
+Release:	2
 Summary:	Notations for typesetting the "Principia Mathematica"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/principia
