@@ -3,7 +3,7 @@ Version:	66625
 Release:	1
 Summary:	Notations for typesetting the "Principia Mathematica"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/principia
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/principia
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/principia.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/principia.doc.r%{version}.tar.xz
